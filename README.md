@@ -1,5 +1,11 @@
 # E2EmpowerED - Organization Design & Management
 
+<!-- repo-intro:start -->
+**Project snapshot:** E2EmpowerED is a professional organization-design and management website for purpose-driven leaders, combining service positioning, case-study storytelling, team presentation, and lead generation.
+
+**What it demonstrates:** Next.js · TypeScript · Tailwind CSS · B2B service-site architecture · responsive design.
+<!-- repo-intro:end -->
+
 An organization design & management firm empowering purpose-driven leaders to build resilient organizations at scale.
 
 ## 🚀 Getting Started
